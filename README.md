@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PietrociniBrogan
-- 🌱 Analytics Consultant | Power Platform Developer @ The Marlin Alliance Inc.
+- 🌱 Data Solutions Consultant | Power Platform Developer @ The Marlin Alliance Inc.
 - 📫 How to reach me email: brogan@pietrocini.com, LinkedIn: https://www.linkedin.com/in/broganpietrocini/
 
 <!---
