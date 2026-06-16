@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PietrociniBrogan
-- 🌱 Solutions Consultant | Business Application Consultant @ The Marlin Alliance Inc.
+- 🌱 Data Solutions Consultant @ The Marlin Alliance Inc.
 - 📫 How to reach me email: brogan@pietrocini.com, LinkedIn: https://www.linkedin.com/in/broganpietrocini/
 
 <!---
