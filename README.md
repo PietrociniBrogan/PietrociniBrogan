@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PietrociniBrogan
-- 🌱 Data Solutions Consultant @ The Marlin Alliance Inc.
+- 🌱 Data Engineer @ Innovatus Technology Consulting
 - 📫 How to reach me email: brogan@pietrocini.com, LinkedIn: https://www.linkedin.com/in/broganpietrocini/
 
 <!---
